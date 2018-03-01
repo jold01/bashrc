@@ -1,0 +1,7 @@
+alias QDown='cd ~/Downloads/Q-11-16/Quoridor-Final-Project-master/'
+alias df='~/Games/df_44_03/df_linux/df'
+alias balias='sudo vim ~/.bash_aliases'
+alias basha='sudo vim ~/.bash_aliases'
+alias jserv='ssh jack@192.168.1.186'
+alias touchpadoff='synclient TouchpadOff=1'
+alias touchpadon='synclient TouchpadOff=0'
